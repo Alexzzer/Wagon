@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Alexandre Sarlat's profile</title>
+	<meta name="description" content="This is the profile of Alexandre">
+	<meta charset="utf-8">
+	<script src="https://kit.fontawesome.com/68fc5db1d1.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+
+<div class="container">
+<div class="card-white" id="introduction">
+
+				<h1>Hi, I'm Alexandre </h1>
+	                                <img src="images/profile.jpg" class="img-circle" width="100px" alt="Alexandre Sarlat">
+    			<p>I like basket ball, soccer and ski.</p>
+                                    <a href=" https://theunsentproject.com" class ="btn-blue" target="_blank">Discover your unsent message</a>	
+</div>	
+<div class="card-white">
+				<h2>Basketball</h2>
+                        <p>
+    	                   I have been playing basketball for 10 years now, I love nba and my favorite team is the Chicago Bulls because of Michael Jordan and today Demar Derozan.
+                        </p>
+</div>	
+<div class="card-white">
+		 	
+	  			<h2>Soccer 📚</h2>
+                         <p>
+    	                    I played soccer when I was young but then I stopped but it’s a game I love and I really support the OGC Nice the club of my home.
+                         </p>
+</div> 
+<div class="card-white">
+ 	
+    	<h2>Ski</h2>
+                          <p>
+    	                     I have been skiing since I was 2 years old,I did a lot of competition and I was pretty good at some points but I had to due to covid and my studies.
+                          </p>
+</div>
+<div class="card-white">
+	
+		<h2>Follow me</h2>
+
+				<ul class="list-inline">
+					<li>
+						<a href="https://www.facebook.com/sarlat.alexandre.5" target="_blank">
+					<i class="fa-brands fa-facebook"></i>
+				</a>
+			</li>
+			<li>
+				<a href="https://www.linkedin.com/in/alexandre-sarlat-396b94222/
+        " target="_blank">
+        	<i class="fa-brands fa-linkedin"></i>
+        		</a>
+   			 </li>
+			 <li>
+				<a href="https://www.instagram.com/alexandre_srlt/?hl=fr " target="_blank">
+			<i class="fa-brands fa-instagram"></i>
+				</a>
+			</li>
+
+		</ul>
+</div>	
+</div>
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
